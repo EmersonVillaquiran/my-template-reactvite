@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>New App</h1>
+      <h1 className='text-center text-5xl'>New App</h1>
     </>
   )
 }
